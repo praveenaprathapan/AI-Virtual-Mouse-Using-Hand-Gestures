@@ -42,11 +42,8 @@ cd AI-Virtual-Mouse-Using-Hand-Gestures
 
 python -m venv venv
 venv\Scripts\activate
+
 3️⃣ Install dependencies
-bash
-Copy code
 pip install mediapipe==0.10.9 opencv-python pyautogui
 ▶️ How to Run
-bash
-Copy code
 python hand.py
